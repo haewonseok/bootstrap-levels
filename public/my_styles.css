@@ -1,0 +1,22 @@
+ /* Write your CSS here to make the span look like a button. */
+  .base-button {
+    padding: 5px;
+    border-radius: 5px;  
+  }
+
+
+  .blue-button { 
+    background-color: blue; 
+  }
+
+  .blue-button:hover { 
+    background-color: darkblue; 
+  }
+
+  .red-button { 
+    background-color: red; 
+  }
+
+  .red-button:hover { 
+    background-color: darkred; 
+  }
